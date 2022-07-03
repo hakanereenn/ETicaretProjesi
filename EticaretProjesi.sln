@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EticaretProjesi.API", "EticaretProjesi.API\EticaretProjesi.API.csproj", "{CC4BFE0E-07BC-448E-A7B3-98BE61E11325}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaretProjesi.Core", "ETicaretProjesi.Core\ETicaretProjesi.Core.csproj", "{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyServices", "MyServices\MyServices.csproj", "{E26BA2CD-96EF-495B-B05B-9C49B7403914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentAPI", "PaymentAPI\PaymentAPI.csproj", "{090977C6-1F8D-4723-9961-44F5A4C4DBF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentAPI.Core", "PaymentAPI.Core\PaymentAPI.Core.csproj", "{D303344B-D9DD-4CBA-80A6-8770827ADF9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Eticaret", "Eticaret", "{F7C93051-9AA0-44F9-A8D9-525A7954A639}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Payment", "Payment", "{9A3871B1-D660-473E-92AE-67ADF319F33A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4BFE0E-07BC-448E-A7B3-98BE61E11325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4BFE0E-07BC-448E-A7B3-98BE61E11325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4BFE0E-07BC-448E-A7B3-98BE61E11325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4BFE0E-07BC-448E-A7B3-98BE61E11325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26BA2CD-96EF-495B-B05B-9C49B7403914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26BA2CD-96EF-495B-B05B-9C49B7403914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26BA2CD-96EF-495B-B05B-9C49B7403914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26BA2CD-96EF-495B-B05B-9C49B7403914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090977C6-1F8D-4723-9961-44F5A4C4DBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090977C6-1F8D-4723-9961-44F5A4C4DBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090977C6-1F8D-4723-9961-44F5A4C4DBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090977C6-1F8D-4723-9961-44F5A4C4DBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D303344B-D9DD-4CBA-80A6-8770827ADF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D303344B-D9DD-4CBA-80A6-8770827ADF9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D303344B-D9DD-4CBA-80A6-8770827ADF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D303344B-D9DD-4CBA-80A6-8770827ADF9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC4BFE0E-07BC-448E-A7B3-98BE61E11325} = {F7C93051-9AA0-44F9-A8D9-525A7954A639}
+		{083F08A6-BB48-48AE-B0DE-0BCBD8AA3A7B} = {F7C93051-9AA0-44F9-A8D9-525A7954A639}
+		{090977C6-1F8D-4723-9961-44F5A4C4DBF6} = {9A3871B1-D660-473E-92AE-67ADF319F33A}
+		{D303344B-D9DD-4CBA-80A6-8770827ADF9B} = {9A3871B1-D660-473E-92AE-67ADF319F33A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {354D8B73-E5A2-41F5-80F2-93C477CE1691}
+	EndGlobalSection
+EndGlobal

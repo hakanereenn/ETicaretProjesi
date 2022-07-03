@@ -1,0 +1,12 @@
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\bin\Debug\net5.0\MyServices.deps.json
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\bin\Debug\net5.0\MyServices.dll
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\bin\Debug\net5.0\MyServices.pdb
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.csproj.AssemblyReference.cache
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.AssemblyInfoInputs.cache
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.AssemblyInfo.cs
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.csproj.CoreCompileInputs.cache
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.dll
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\refint\MyServices.dll
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\MyServices.pdb
+C:\Users\blueh\source\repos\EticaretProjesi\MyServices\obj\Debug\net5.0\ref\MyServices.dll
